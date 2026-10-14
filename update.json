@@ -1,0 +1,6 @@
+{
+  "version": "1.0.10",
+  "download_url": "https://github.com/sfy5671/renovation-standalone-release/releases/download/v1.0.10/RenovationSetup.exe",
+  "notes": "【新功能】新版自動提示：有新版本時，每頁頂端會出現金色橫幅，按「下載更新」即可安裝新版，資料與設定都會保留。\n【新功能】存檔後停留原處：送出表單存檔後，畫面回到剛才的位置，不再跳回頁面最上方。\n【新功能】首頁版面導覽：第一次進首頁自動標出各區塊用途，右上角可重看。\n【其他】升級後既有資料與設定不受影響。",
+  "sha256": "47ffa16150a4ecc2d22be33d465d6c2eacbbf7ba173efc1dfd9480e702dbf5c4"
+}
