@@ -1,6 +1,6 @@
 {
-  "version": "1.0.11",
-  "download_url": "https://github.com/sfy5671/renovation-standalone-release/releases/download/v1.0.11/RenovationSetup.exe",
-  "notes": "【新功能】案件帳務：每個工程案件可記應收應付、分次收付、代墊與歸還，一眼看到業主尚欠、尚欠廠商、應還代墊與本案淨利；另有全部案件未收未付總表，皆可匯出 Excel。\n【新功能】業績依帳務淨利計算：有建帳務的案件，業務／公司分潤自動依帳務淨利重算。\n【新功能】估價回合新增「廠商加稅%」：廠商照未稅價收款時填 0，利潤照實際付款計算。\n【修正】快速估價報價單抬頭改讀您在「報價單抬頭」設定的公司資料。\n【其他】升級後既有資料與設定不受影響。",
-  "sha256": "7877734c60cf47c56c3d5547f40e02a18103afc625832ae2def04d5cabe2967d"
+  "version": "1.0.12",
+  "download_url": "https://github.com/sfy5671/renovation-standalone-release/releases/download/v1.0.12/RenovationSetup.exe",
+  "notes": "【修正】AI 修圖、合成與生圖改用您在「整合設定」填寫的 Gemini 金鑰（先前即使已填寫，仍可能顯示「未設定 GEMINI_API_KEY」）。\n【修正】案件帳務：估價確定版退回、作廢或刪除後，合約金額與廠商金額會重新計算；營業稅改依確定版回合設定的稅率。\n【調整】業績分潤：公司% 固定等於 100% 減業務%，填寫業務% 時自動連動（業績金額不變）。\n【其他】升級後既有資料與設定不受影響。",
+  "sha256": "3ac05744994c4820a88cf8ffcc051cd507f2ab6eb85eb6ffe51fdc41afc1a966"
 }
